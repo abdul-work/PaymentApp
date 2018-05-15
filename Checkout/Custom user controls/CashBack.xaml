@@ -1,0 +1,24 @@
+﻿<ContentDialog
+    x:Class="Checkout.Custom_user_controls.CashBack"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Checkout.Custom_user_controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Title="Enter Cash Back Amount"
+    PrimaryButtonText="Ok"
+    SecondaryButtonText="Cancel"
+    PrimaryButtonClick="ContentDialog_PrimaryButtonClick"
+    SecondaryButtonClick="ContentDialog_SecondaryButtonClick">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="30"/>
+        </Grid.RowDefinitions>
+        <TextBox Grid.Row="0" x:Name="txt_CashBackAmount" TextChanged="txt_CashBackAmount_TextChanged" GotFocus="txt_CashBackAmount_GotFocus">
+        </TextBox>
+        <TextBlock Grid.Row="1" x:Name="alert"  Text="*Please enter valid input" Visibility="Collapsed" Foreground="Red"/>
+    </Grid>
+</ContentDialog>

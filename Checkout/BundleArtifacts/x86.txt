@@ -1,0 +1,1 @@
+MainPackage=C:\Users\Humuyan\Desktop\Checkout_UI\Checkout1\Checkout\bin\x86\Debug\Checkout_1.0.15.0_x86_Debug.appx
