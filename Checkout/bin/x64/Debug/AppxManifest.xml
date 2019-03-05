@@ -7,7 +7,7 @@
 
     For more information on package manifest files, see http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="9b0e37ba-6017-4a7c-960b-55ba1f6496d1" Publisher="CN=ges" Version="1.0.46.0" ProcessorArchitecture="x64" />
+  <Identity Name="9b0e37ba-6017-4a7c-960b-55ba1f6496d1" Publisher="CN=Abdul Rehman" Version="1.0.50.0" ProcessorArchitecture="x64" />
   <mp:PhoneIdentity PhoneProductId="9b0e37ba-6017-4a7c-960b-55ba1f6496d1" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>Checkout</DisplayName>
@@ -35,12 +35,12 @@
     <build:Item Name="TargetFrameworkMoniker" Value=".NETCore,Version=v5.0" />
     <build:Item Name="VisualStudio" Version="15.0" />
     <build:Item Name="VisualStudioEdition" Value="Microsoft Visual Studio Community 2017" />
-    <build:Item Name="OperatingSystem" Version="10.0.16299.15 (WinBuild.160101.0800)" />
-    <build:Item Name="Microsoft.Build.AppxPackage.dll" Version="15.0.26720.2" />
+    <build:Item Name="OperatingSystem" Version="10.0.17763.1 (WinBuild.160101.0800)" />
+    <build:Item Name="Microsoft.Build.AppxPackage.dll" Version="15.0.28307.104" />
     <build:Item Name="ProjectGUID" Value="{837ACDBA-3FDA-402E-A1F2-FA136E0BC1A2}" />
     <build:Item Name="OptimizingToolset" Value="None" />
     <build:Item Name="TargetRuntime" Value="Managed" />
-    <build:Item Name="Microsoft.Windows.UI.Xaml.Build.Tasks.dll" Version="15.0.26720.2" />
+    <build:Item Name="Microsoft.Windows.UI.Xaml.Build.Tasks.dll" Version="15.0.28307.102" />
     <build:Item Name="MakePri.exe" Version="10.0.14393.795 (rs1_release_sec.170105-1850)" />
   </build:Metadata>
 </Package>

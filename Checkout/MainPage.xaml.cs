@@ -328,7 +328,7 @@ namespace Checkout
         }
         private void mn_SettingsClick(object sender, RoutedEventArgs e)
         {
-
+            this.splv_Register.IsPaneOpen = !this.splv_Register.IsPaneOpen;
         }
         private void mn_LayaltyTransactionClick(object sender, RoutedEventArgs e)
         {
@@ -338,14 +338,16 @@ namespace Checkout
             mgr.setPaymentResponseListener(this);
 
             mgr.loyaltyTransaction(result.Text);
+
+            this.splv_Register.IsPaneOpen = !this.splv_Register.IsPaneOpen;
         }
         private void mn_PowerOnClick(object sender, RoutedEventArgs e)
         {
-
+            this.splv_Register.IsPaneOpen = !this.splv_Register.IsPaneOpen;
         }
         private void mn_PowerOffClick(object sender, RoutedEventArgs e)
         {
-
+            this.splv_Register.IsPaneOpen = !this.splv_Register.IsPaneOpen;
         }
         private async void mn_TransactionMethodClick(object sender, RoutedEventArgs e)
         {
@@ -361,6 +363,8 @@ namespace Checkout
                     Settings.transaction_method = PaymentSDK.ServiceReference1.TransactionMethod.MSR_EMV_CL;
                 this.splv_Register.IsPaneOpen = !this.splv_Register.IsPaneOpen;
             }
+
+            this.splv_Register.IsPaneOpen = !this.splv_Register.IsPaneOpen;
         }
         private void mn_PhoneNumberClick(object sender, RoutedEventArgs e)
         {
@@ -370,6 +374,8 @@ namespace Checkout
             mgr.setPaymentResponseListener(this);
 
             mgr.phoneNumber();
+
+            this.splv_Register.IsPaneOpen = !this.splv_Register.IsPaneOpen;
         }
         private async void mn_CashBackClick(object sender, RoutedEventArgs e)
         {
@@ -381,6 +387,8 @@ namespace Checkout
                 result.Text = ObjectCashBack.CashbackAmount.ToString();
                 this.splv_Register.IsPaneOpen = !this.splv_Register.IsPaneOpen;
             }
+
+            this.splv_Register.IsPaneOpen = !this.splv_Register.IsPaneOpen;
         }
         private async void mn_QuickChipClick(object sender, RoutedEventArgs e)
         {
@@ -394,17 +402,20 @@ namespace Checkout
                     Settings.isQuickChip = false;
                 this.splv_Register.IsPaneOpen = !this.splv_Register.IsPaneOpen;
             }
+
+            this.splv_Register.IsPaneOpen = !this.splv_Register.IsPaneOpen;
         }
         private async void mn_AboutClick(object sender, RoutedEventArgs e)
         {
             About ObjectAbout = new About();
             var content = await ObjectAbout.ShowAsync();
+
             this.splv_Register.IsPaneOpen = !this.splv_Register.IsPaneOpen;
         }
 
         private void mn_PowerOffTerminal_Click(object sender, RoutedEventArgs e)
         {
-
+            this.splv_Register.IsPaneOpen = !this.splv_Register.IsPaneOpen;
         }
 
         private void Page_SizeChanged(object sender, SizeChangedEventArgs e)

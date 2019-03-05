@@ -17,7 +17,7 @@ namespace Checkout
 
         public static String amountOther = "0";
 
-        public static VoiceReferralResult voice_result = "Approved";
+        public static string voice_result = "Approved";
 
         public static String authCode = "0";
     }

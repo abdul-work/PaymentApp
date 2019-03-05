@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" IgnorableNamespaces="uap mp">
-  <Identity Name="9b0e37ba-6017-4a7c-960b-55ba1f6496d1" Publisher="CN=ges" Version="1.0.46.0" />
+  <Identity Name="9b0e37ba-6017-4a7c-960b-55ba1f6496d1" Publisher="CN=Abdul Rehman" Version="1.0.50.0" />
   <mp:PhoneIdentity PhoneProductId="9b0e37ba-6017-4a7c-960b-55ba1f6496d1" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>Checkout</DisplayName>

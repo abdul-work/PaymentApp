@@ -22006,12 +22006,12 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Users\\Abdul Rehman\\Desktop\\Checout Source\\[W]Checout_Source_28_03_2018\\Checkout\\Checkout\\Checkout.csproj",
+      "projectUniqueName": "C:\\Users\\Abdul Rehman\\source\\repos\\PaymentApp\\Checkout\\Checkout.csproj",
       "projectName": "Checkout",
-      "projectPath": "C:\\Users\\Abdul Rehman\\Desktop\\Checout Source\\[W]Checout_Source_28_03_2018\\Checkout\\Checkout\\Checkout.csproj",
-      "projectJsonPath": "C:\\Users\\Abdul Rehman\\Desktop\\Checout Source\\[W]Checout_Source_28_03_2018\\Checkout\\Checkout\\project.json",
+      "projectPath": "C:\\Users\\Abdul Rehman\\source\\repos\\PaymentApp\\Checkout\\Checkout.csproj",
+      "projectJsonPath": "C:\\Users\\Abdul Rehman\\source\\repos\\PaymentApp\\Checkout\\project.json",
       "packagesPath": "C:\\Users\\Abdul Rehman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Abdul Rehman\\Desktop\\Checout Source\\[W]Checout_Source_28_03_2018\\Checkout\\Checkout\\obj\\",
+      "outputPath": "C:\\Users\\Abdul Rehman\\source\\repos\\PaymentApp\\Checkout\\obj\\",
       "projectStyle": "ProjectJson",
       "configFilePaths": [
         "C:\\Users\\Abdul Rehman\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22023,7 +22023,7 @@
       }
     },
     "dependencies": {
-      "Microsoft.NETCore.UniversalWindowsPlatform": "5.2.3"
+      "Microsoft.NETCore.UniversalWindowsPlatform": "[5.2.3, )"
     },
     "frameworks": {
       "uap10.0.10586": {}
