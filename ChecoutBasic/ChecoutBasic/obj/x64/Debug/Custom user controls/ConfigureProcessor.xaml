@@ -1,0 +1,22 @@
+﻿<ContentDialog x:ConnectionId='1'
+    x:Class="Checkout.Custom_user_controls.ConfigureProcessor"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Checkout.Custom_user_controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    
+    Title="Select Gateway"
+    PrimaryButtonText="Ok"
+    SecondaryButtonText="Cancel"
+                                                         
+                                                             >
+
+    <Grid Height="65" Margin="0,10,0,0">
+        <RadioButton x:ConnectionId='2' x:Name="creditCall_radioButton" Content="CreditCall" HorizontalAlignment="Left" Margin="0,0,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:ConnectionId='3' x:Name="shift4_radioButton" Content="Shift4" HorizontalAlignment="Left" Margin="0,0,0,0" VerticalAlignment="Bottom"/>
+
+    </Grid>
+</ContentDialog>
+

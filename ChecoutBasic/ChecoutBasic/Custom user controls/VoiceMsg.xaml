@@ -1,0 +1,28 @@
+﻿<ContentDialog
+    x:Class="Checkout.Custom_user_controls.VoiceMsg"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Checkout.Custom_user_controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Title="Enter Authcode"
+    PrimaryButtonText="Submit"
+    SecondaryButtonText="Cancel"
+    PrimaryButtonClick="ContentDialog_PrimaryButtonClick"
+    SecondaryButtonClick="ContentDialog_SecondaryButtonClick" Height="712" Width="1214" MinHeight="184" HorizontalAlignment="Stretch" VerticalAlignment="Top" Margin="0" Padding="0,0,16,0">
+
+    <Grid Height="156" Margin="0,0,1.333,0">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="106"/>
+        </Grid.RowDefinitions>
+        <TextBox Grid.Row="0" x:Name="txt_AuthCode" TextChanged="txt_AuthCode_TextChanged" GotFocus="txt_AuthCode_GotFocus" Margin="0,10,0,5">
+
+        </TextBox>
+        <TextBlock Grid.Row="1" x:Name="alert"  Text="*Please enter valid input" Visibility="Collapsed" Foreground="Red" Margin="0,9,0,-9"/>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="0,10,0,0" TextWrapping="Wrap" Text="Voice Result Options" VerticalAlignment="Top" Width="146" SelectionChanged="textBlock_SelectionChanged" Height="29" Grid.Row="1"/>
+        <RadioButton x:Name="radioButton" Content="Manual Sale" HorizontalAlignment="Left" Margin="0,38,0,0" VerticalAlignment="Top" Checked="radioButton_Checked" Height="32" Grid.Row="1" Width="120" RenderTransformOrigin="0.506,1.24"/>
+        <RadioButton x:Name="radioButton1" Content="Manual Auth" HorizontalAlignment="Left" Margin="0,69,0,0" VerticalAlignment="Top" Width="136" Checked="radioButton1_Checked" Height="32" Grid.Row="1"/>
+    </Grid>
+</ContentDialog>

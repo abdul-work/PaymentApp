@@ -1,0 +1,2 @@
+MainPackage=I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\ChecoutBasic_1.0.1.0_x64_Debug.appx
+SymbolPackage=I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\AppPackages\ChecoutBasic_1.0.1.0_Debug_Test\ChecoutBasic_1.0.1.0_x64_Debug.appxsym

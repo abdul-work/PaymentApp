@@ -1,0 +1,1 @@
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\ChecoutBasic.csproj;x64

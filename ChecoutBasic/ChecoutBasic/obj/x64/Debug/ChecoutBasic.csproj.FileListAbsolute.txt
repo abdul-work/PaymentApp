@@ -1,0 +1,808 @@
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\App.xbf
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\MainPage.xbf
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\ChecoutBasic.xr.xml
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\ChecoutBasic.exe
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\ChecoutBasic.pdb
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\resources.pri
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\AppxManifest.xml
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\Core\AppxManifest.xml
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\Core\ChecoutBasic.exe
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\ChecoutBasic.build.appxrecipe
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\Microsoft.CSharp.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.ComponentModel.DataAnnotations.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Core.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Net.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Numerics.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Runtime.Serialization.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.ServiceModel.Web.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.ServiceModel.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Windows.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Xml.Linq.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Xml.Serialization.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Xml.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\Microsoft.VisualBasic.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Collections.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Diagnostics.Tools.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Diagnostics.Tracing.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Globalization.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Globalization.Calendars.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.IO.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Reflection.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Reflection.Extensions.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Reflection.Primitives.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Resources.ResourceManager.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Runtime.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Runtime.Handles.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Runtime.InteropServices.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Text.Encoding.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Text.Encoding.Extensions.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Threading.Tasks.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Threading.Timer.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\Microsoft.Win32.Primitives.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Diagnostics.Debug.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.IO.FileSystem.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Net.Primitives.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Net.Sockets.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Runtime.Extensions.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\clrjit.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\clrcompression.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Private.Uri.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.AppContext.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Buffers.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Collections.Concurrent.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Collections.Immutable.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Collections.NonGeneric.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Collections.Specialized.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.ComponentModel.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.ComponentModel.Annotations.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.ComponentModel.EventBasedAsync.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Data.Common.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Diagnostics.Contracts.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Diagnostics.DiagnosticSource.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Diagnostics.StackTrace.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Dynamic.Runtime.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Globalization.Extensions.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.IO.Compression.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.IO.Compression.ZipFile.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.IO.FileSystem.Primitives.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.IO.IsolatedStorage.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.IO.UnmanagedMemoryStream.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Linq.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Linq.Expressions.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Linq.Parallel.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Linq.Queryable.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Net.Http.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Net.Http.Rtc.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Net.NameResolution.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Net.NetworkInformation.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Net.Requests.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Net.WebHeaderCollection.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Net.WebSockets.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Net.WebSockets.Client.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Numerics.Vectors.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.ObjectModel.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Private.DataContractSerialization.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Private.ServiceModel.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Reflection.Context.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Reflection.DispatchProxy.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Reflection.Emit.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Reflection.Emit.ILGeneration.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Reflection.Emit.Lightweight.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Reflection.Metadata.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Reflection.TypeExtensions.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Runtime.Numerics.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Runtime.Serialization.Json.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Runtime.Serialization.Primitives.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Runtime.Serialization.Xml.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Runtime.WindowsRuntime.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Security.Claims.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Security.Cryptography.Algorithms.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Security.Cryptography.Cng.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Security.Cryptography.Encoding.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Security.Cryptography.Primitives.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Security.Cryptography.X509Certificates.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Security.Principal.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.ServiceModel.Duplex.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.ServiceModel.Http.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.ServiceModel.NetTcp.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.ServiceModel.Primitives.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.ServiceModel.Security.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Text.Encoding.CodePages.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Text.RegularExpressions.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Threading.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Threading.Overlapped.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Threading.Tasks.Dataflow.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Threading.Tasks.Parallel.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Xml.ReaderWriter.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Xml.XDocument.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Xml.XmlDocument.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Xml.XmlSerializer.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\PaymentSDK.dll
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\PaymentSDK.pdb
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\ChecoutBasic.csprojResolveAssemblyReference.cache
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\App.g.i.cs
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\App.g.cs
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\MainPage.g.i.cs
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\MainPage.g.cs
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\XamlTypeInfo.g.cs
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\App.xaml
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\MainPage.xaml
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\App.xbf
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\MainPage.xbf
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\XamlSaveStateFile.xml
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\ChecoutBasic.csproj.CoreCompileInputs.cache
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\ChecoutBasic.exe
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\ChecoutBasic.pdb
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\ResourceHandlingTask.state
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.Microsoft.CSharp.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Collections.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.IO.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.IO.FileSystem.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Net.Primitives.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Net.Sockets.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Runtime.Extensions.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Private.Uri.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Buffers.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Collections.Concurrent.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Collections.Immutable.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Collections.Specialized.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Data.Common.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Globalization.Extensions.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.IO.Compression.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Linq.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Linq.Expressions.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Linq.Parallel.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Linq.Queryable.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Net.Http.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Net.NameResolution.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Net.Requests.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Net.WebSockets.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Numerics.Vectors.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.ObjectModel.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Private.ServiceModel.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Reflection.Metadata.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Runtime.Numerics.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Security.Claims.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Threading.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Threading.Overlapped.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Xml.XDocument.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\ChecoutBasic.csproj.GenerateResource.Cache
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\priconfig.xml
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\priconfig.xml.intermediate
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\layout.resfiles
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\layout.resfiles.intermediate
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\resources.resfiles
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\resources.resfiles.intermediate
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\pri.resfiles
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\pri.resfiles.intermediate
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\qualifiers.txt
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\qualifiers.txt.intermediate
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\humayun ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\Humayun Ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\About.g.i.cs
+C:\Users\Humayun Ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\About.g.cs
+C:\Users\Humayun Ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\AuthToken.g.i.cs
+C:\Users\Humayun Ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\AuthToken.g.cs
+C:\Users\Humayun Ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\CashBack.g.i.cs
+C:\Users\Humayun Ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\CashBack.g.cs
+C:\Users\Humayun Ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\ClerkId.g.i.cs
+C:\Users\Humayun Ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\ClerkId.g.cs
+C:\Users\Humayun Ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\ConfigureProcessor.g.i.cs
+C:\Users\Humayun Ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\ConfigureProcessor.g.cs
+C:\Users\Humayun Ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\QuickChip.g.i.cs
+C:\Users\Humayun Ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\QuickChip.g.cs
+C:\Users\Humayun Ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\Tax.g.i.cs
+C:\Users\Humayun Ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\Tax.g.cs
+C:\Users\Humayun Ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\Tip.g.i.cs
+C:\Users\Humayun Ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\Tip.g.cs
+C:\Users\Humayun Ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\TransactionMethod.g.i.cs
+C:\Users\Humayun Ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\TransactionMethod.g.cs
+C:\Users\Humayun Ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\VoiceMsg.g.i.cs
+C:\Users\Humayun Ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\VoiceMsg.g.cs
+C:\Users\Humayun Ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\About.xaml
+C:\Users\Humayun Ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\AuthToken.xaml
+C:\Users\Humayun Ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\CashBack.xaml
+C:\Users\Humayun Ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\ClerkId.xaml
+C:\Users\Humayun Ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\ConfigureProcessor.xaml
+C:\Users\Humayun Ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\QuickChip.xaml
+C:\Users\Humayun Ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\Tax.xaml
+C:\Users\Humayun Ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\Tip.xaml
+C:\Users\Humayun Ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\TransactionMethod.xaml
+C:\Users\Humayun Ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\VoiceMsg.xaml
+C:\Users\Humayun Ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\About.xbf
+C:\Users\Humayun Ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\AuthToken.xbf
+C:\Users\Humayun Ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\CashBack.xbf
+C:\Users\Humayun Ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\ClerkId.xbf
+C:\Users\Humayun Ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\ConfigureProcessor.xbf
+C:\Users\Humayun Ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\QuickChip.xbf
+C:\Users\Humayun Ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\Tax.xbf
+C:\Users\Humayun Ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\Tip.xbf
+C:\Users\Humayun Ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\TransactionMethod.xbf
+C:\Users\Humayun Ajmal\source\repos\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\VoiceMsg.xbf
+C:\Users\Humayun Ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\Custom user controls\About.xbf
+C:\Users\Humayun Ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\Custom user controls\AuthToken.xbf
+C:\Users\Humayun Ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\Custom user controls\CashBack.xbf
+C:\Users\Humayun Ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\Custom user controls\ClerkId.xbf
+C:\Users\Humayun Ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\Custom user controls\ConfigureProcessor.xbf
+C:\Users\Humayun Ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\Custom user controls\QuickChip.xbf
+C:\Users\Humayun Ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\Custom user controls\Tax.xbf
+C:\Users\Humayun Ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\Custom user controls\Tip.xbf
+C:\Users\Humayun Ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\Custom user controls\TransactionMethod.xbf
+C:\Users\Humayun Ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\Custom user controls\VoiceMsg.xbf
+C:\Users\Humayun Ajmal\source\repos\ChecoutBasic\ChecoutBasic\bin\x64\Debug\GpioSdk.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\ChecoutBasic.csprojAssemblyReference.cache
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\App.g.i.cs
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\App.g.cs
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\About.g.i.cs
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\About.g.cs
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\AuthToken.g.i.cs
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\AuthToken.g.cs
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\CashBack.g.i.cs
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\CashBack.g.cs
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\ClerkId.g.i.cs
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\ClerkId.g.cs
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\ConfigureProcessor.g.i.cs
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\ConfigureProcessor.g.cs
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\QuickChip.g.i.cs
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\QuickChip.g.cs
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\Tax.g.i.cs
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\Tax.g.cs
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\Tip.g.i.cs
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\Tip.g.cs
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\TransactionMethod.g.i.cs
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\TransactionMethod.g.cs
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\VoiceMsg.g.i.cs
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\VoiceMsg.g.cs
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\MainPage.g.i.cs
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\MainPage.g.cs
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\App.xaml
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\About.xaml
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\AuthToken.xaml
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\CashBack.xaml
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\ClerkId.xaml
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\ConfigureProcessor.xaml
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\QuickChip.xaml
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\Tax.xaml
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\Tip.xaml
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\TransactionMethod.xaml
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\VoiceMsg.xaml
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\MainPage.xaml
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\App.xbf
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\About.xbf
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\AuthToken.xbf
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\CashBack.xbf
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\ClerkId.xbf
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\ConfigureProcessor.xbf
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\QuickChip.xbf
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\Tax.xbf
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\Tip.xbf
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\TransactionMethod.xbf
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\VoiceMsg.xbf
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\MainPage.xbf
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\ChecoutBasic.exe
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\ChecoutBasic.pdb
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\App.xbf
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\Custom user controls\About.xbf
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\Custom user controls\AuthToken.xbf
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\Custom user controls\CashBack.xbf
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\Custom user controls\ClerkId.xbf
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\Custom user controls\ConfigureProcessor.xbf
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\Custom user controls\QuickChip.xbf
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\Custom user controls\Tax.xbf
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\Custom user controls\Tip.xbf
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\Custom user controls\TransactionMethod.xbf
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\Custom user controls\VoiceMsg.xbf
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\MainPage.xbf
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\ChecoutBasic.xr.xml
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\ChecoutBasic.exe
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\ChecoutBasic.pdb
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\resources.pri
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\AppxManifest.xml
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\Core\AppxManifest.xml
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\Core\ChecoutBasic.exe
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\ChecoutBasic.build.appxrecipe
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\Microsoft.CSharp.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.ComponentModel.DataAnnotations.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Core.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Net.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Numerics.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Runtime.Serialization.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.ServiceModel.Web.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.ServiceModel.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Windows.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Xml.Linq.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Xml.Serialization.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Xml.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\Microsoft.VisualBasic.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Collections.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Diagnostics.Tools.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Diagnostics.Tracing.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Globalization.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Globalization.Calendars.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.IO.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Reflection.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Reflection.Extensions.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Reflection.Primitives.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Resources.ResourceManager.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Runtime.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Runtime.Handles.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Runtime.InteropServices.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Text.Encoding.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Text.Encoding.Extensions.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Threading.Tasks.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Threading.Timer.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\Microsoft.Win32.Primitives.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Diagnostics.Debug.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.IO.FileSystem.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Net.Primitives.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Net.Sockets.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Runtime.Extensions.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\clrjit.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\clrcompression.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Private.Uri.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.AppContext.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Buffers.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Collections.Concurrent.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Collections.Immutable.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Collections.NonGeneric.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Collections.Specialized.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.ComponentModel.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.ComponentModel.Annotations.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.ComponentModel.EventBasedAsync.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Data.Common.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Diagnostics.Contracts.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Diagnostics.DiagnosticSource.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Diagnostics.StackTrace.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Dynamic.Runtime.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Globalization.Extensions.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.IO.Compression.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.IO.Compression.ZipFile.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.IO.FileSystem.Primitives.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.IO.IsolatedStorage.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.IO.UnmanagedMemoryStream.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Linq.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Linq.Expressions.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Linq.Parallel.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Linq.Queryable.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Net.Http.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Net.Http.Rtc.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Net.NameResolution.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Net.NetworkInformation.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Net.Requests.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Net.WebHeaderCollection.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Net.WebSockets.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Net.WebSockets.Client.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Numerics.Vectors.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.ObjectModel.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Private.DataContractSerialization.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Private.ServiceModel.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Reflection.Context.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Reflection.DispatchProxy.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Reflection.Emit.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Reflection.Emit.ILGeneration.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Reflection.Emit.Lightweight.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Reflection.Metadata.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Reflection.TypeExtensions.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Runtime.Numerics.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Runtime.Serialization.Json.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Runtime.Serialization.Primitives.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Runtime.Serialization.Xml.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Runtime.WindowsRuntime.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Security.Claims.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Security.Cryptography.Algorithms.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Security.Cryptography.Cng.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Security.Cryptography.Encoding.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Security.Cryptography.Primitives.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Security.Cryptography.X509Certificates.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Security.Principal.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.ServiceModel.Duplex.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.ServiceModel.Http.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.ServiceModel.NetTcp.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.ServiceModel.Primitives.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.ServiceModel.Security.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Text.Encoding.CodePages.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Text.RegularExpressions.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Threading.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Threading.Overlapped.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Threading.Tasks.Dataflow.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Threading.Tasks.Parallel.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Xml.ReaderWriter.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Xml.XDocument.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Xml.XmlDocument.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Xml.XmlSerializer.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\GpioSdk.dll
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\XamlTypeInfo.g.cs
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\XamlSaveStateFile.xml
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\ChecoutBasic.csproj.CoreCompileInputs.cache
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\ChecoutBasic.csproj.CopyComplete
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\ResourceHandlingTask.state
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.Microsoft.CSharp.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Collections.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.IO.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.IO.FileSystem.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Net.Primitives.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Net.Sockets.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Runtime.Extensions.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Private.Uri.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Buffers.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Collections.Concurrent.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Collections.Immutable.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Collections.Specialized.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Data.Common.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Globalization.Extensions.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.IO.Compression.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Linq.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Linq.Expressions.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Linq.Parallel.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Linq.Queryable.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Net.Http.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Net.NameResolution.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Net.Requests.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Net.WebSockets.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Numerics.Vectors.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.ObjectModel.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Private.ServiceModel.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Reflection.Metadata.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Runtime.Numerics.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Security.Claims.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Threading.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Threading.Overlapped.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Xml.XDocument.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\ChecoutBasic.csproj.GenerateResource.Cache
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\priconfig.xml
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\priconfig.xml.intermediate
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\unfiltered.layout.resfiles
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\filtered.layout.resfiles
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\filtered.layout.resfiles.intermediate
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\excluded.layout.resfiles
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\excluded.layout.resfiles.intermediate
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\resources.resfiles
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\resources.resfiles.intermediate
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\pri.resfiles
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\pri.resfiles.intermediate
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\qualifiers.txt
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\qualifiers.txt.intermediate
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\ProjectArchitectures.txt
+I:\ServiceMergedApril2019_fromHumayun\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\PaymentSDK.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\App.xbf
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\Custom user controls\About.xbf
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\Custom user controls\AuthToken.xbf
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\Custom user controls\CashBack.xbf
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\Custom user controls\ClerkId.xbf
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\Custom user controls\ConfigureProcessor.xbf
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\Custom user controls\QuickChip.xbf
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\Custom user controls\Tax.xbf
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\Custom user controls\Tip.xbf
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\Custom user controls\TransactionMethod.xbf
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\Custom user controls\VoiceMsg.xbf
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\MainPage.xbf
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\ChecoutBasic.xr.xml
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\ChecoutBasic.exe
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\ChecoutBasic.pdb
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\resources.pri
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\AppxManifest.xml
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\Core\AppxManifest.xml
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\Core\ChecoutBasic.exe
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\ChecoutBasic.build.appxrecipe
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\Microsoft.CSharp.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.ComponentModel.DataAnnotations.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Core.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Net.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Numerics.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Runtime.Serialization.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.ServiceModel.Web.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.ServiceModel.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Windows.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Xml.Linq.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Xml.Serialization.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Xml.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\Microsoft.VisualBasic.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Collections.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Diagnostics.Tools.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Diagnostics.Tracing.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Globalization.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Globalization.Calendars.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.IO.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Reflection.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Reflection.Extensions.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Reflection.Primitives.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Resources.ResourceManager.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Runtime.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Runtime.Handles.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Runtime.InteropServices.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Text.Encoding.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Text.Encoding.Extensions.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Threading.Tasks.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Threading.Timer.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\Microsoft.Win32.Primitives.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Diagnostics.Debug.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.IO.FileSystem.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Net.Primitives.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Net.Sockets.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Runtime.Extensions.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\clrjit.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\clrcompression.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Private.Uri.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.AppContext.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Buffers.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Collections.Concurrent.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Collections.Immutable.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Collections.NonGeneric.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Collections.Specialized.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.ComponentModel.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.ComponentModel.Annotations.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.ComponentModel.EventBasedAsync.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Data.Common.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Diagnostics.Contracts.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Diagnostics.DiagnosticSource.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Diagnostics.StackTrace.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Dynamic.Runtime.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Globalization.Extensions.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.IO.Compression.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.IO.Compression.ZipFile.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.IO.FileSystem.Primitives.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.IO.IsolatedStorage.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.IO.UnmanagedMemoryStream.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Linq.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Linq.Expressions.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Linq.Parallel.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Linq.Queryable.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Net.Http.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Net.Http.Rtc.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Net.NameResolution.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Net.NetworkInformation.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Net.Requests.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Net.WebHeaderCollection.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Net.WebSockets.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Net.WebSockets.Client.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Numerics.Vectors.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.ObjectModel.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Private.DataContractSerialization.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Private.ServiceModel.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Reflection.Context.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Reflection.DispatchProxy.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Reflection.Emit.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Reflection.Emit.ILGeneration.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Reflection.Emit.Lightweight.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Reflection.Metadata.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Reflection.TypeExtensions.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Runtime.Numerics.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Runtime.Serialization.Json.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Runtime.Serialization.Primitives.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Runtime.Serialization.Xml.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Runtime.WindowsRuntime.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Security.Claims.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Security.Cryptography.Algorithms.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Security.Cryptography.Cng.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Security.Cryptography.Encoding.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Security.Cryptography.Primitives.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Security.Cryptography.X509Certificates.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Security.Principal.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.ServiceModel.Duplex.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.ServiceModel.Http.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.ServiceModel.NetTcp.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.ServiceModel.Primitives.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.ServiceModel.Security.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Text.Encoding.CodePages.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Text.RegularExpressions.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Threading.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Threading.Overlapped.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Threading.Tasks.Dataflow.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Threading.Tasks.Parallel.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Xml.ReaderWriter.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Xml.XDocument.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Xml.XmlDocument.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\System.Xml.XmlSerializer.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\GpioSdk.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\PaymentSDK.dll
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\App.g.i.cs
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\App.g.cs
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\About.g.i.cs
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\About.g.cs
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\AuthToken.g.i.cs
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\AuthToken.g.cs
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\CashBack.g.i.cs
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\CashBack.g.cs
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\ClerkId.g.i.cs
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\ClerkId.g.cs
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\ConfigureProcessor.g.i.cs
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\ConfigureProcessor.g.cs
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\QuickChip.g.i.cs
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\QuickChip.g.cs
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\Tax.g.i.cs
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\Tax.g.cs
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\Tip.g.i.cs
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\Tip.g.cs
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\TransactionMethod.g.i.cs
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\TransactionMethod.g.cs
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\VoiceMsg.g.i.cs
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\VoiceMsg.g.cs
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\MainPage.g.i.cs
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\MainPage.g.cs
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\XamlTypeInfo.g.cs
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\App.xaml
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\About.xaml
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\AuthToken.xaml
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\CashBack.xaml
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\ClerkId.xaml
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\ConfigureProcessor.xaml
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\QuickChip.xaml
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\Tax.xaml
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\Tip.xaml
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\TransactionMethod.xaml
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\VoiceMsg.xaml
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\MainPage.xaml
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\App.xbf
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\About.xbf
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\AuthToken.xbf
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\CashBack.xbf
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\ClerkId.xbf
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\ConfigureProcessor.xbf
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\QuickChip.xbf
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\Tax.xbf
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\Tip.xbf
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\TransactionMethod.xbf
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\Custom user controls\VoiceMsg.xbf
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\MainPage.xbf
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\XamlSaveStateFile.xml
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\ChecoutBasic.csproj.CoreCompileInputs.cache
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\ChecoutBasic.csproj.CopyComplete
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\ChecoutBasic.exe
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\ChecoutBasic.pdb
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\ResourceHandlingTask.state
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.Microsoft.CSharp.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Collections.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.IO.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.IO.FileSystem.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Net.Primitives.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Net.Sockets.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Runtime.Extensions.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Private.Uri.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Buffers.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Collections.Concurrent.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Collections.Immutable.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Collections.Specialized.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Data.Common.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Globalization.Extensions.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.IO.Compression.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Linq.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Linq.Expressions.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Linq.Parallel.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Linq.Queryable.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Net.Http.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Net.NameResolution.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Net.Requests.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Net.WebSockets.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Numerics.Vectors.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.ObjectModel.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Private.ServiceModel.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Reflection.Metadata.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Runtime.Numerics.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Security.Claims.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Threading.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Threading.Overlapped.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Xml.XDocument.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\ChecoutBasic.csproj.GenerateResource.Cache
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\priconfig.xml
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\priconfig.xml.intermediate
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\unfiltered.layout.resfiles
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\filtered.layout.resfiles
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\filtered.layout.resfiles.intermediate
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\excluded.layout.resfiles
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\excluded.layout.resfiles.intermediate
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\resources.resfiles
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\resources.resfiles.intermediate
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\pri.resfiles
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\pri.resfiles.intermediate
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\qualifiers.txt
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\qualifiers.txt.intermediate
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\obj\x64\Debug\ProjectArchitectures.txt
