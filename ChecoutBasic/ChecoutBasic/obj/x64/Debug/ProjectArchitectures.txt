@@ -1,1 +1,1 @@
-I:\windows-payment-services\windows\uwp\ChecoutBasic\ChecoutBasic\ChecoutBasic.csproj;x64
+C:\Users\Abdul Rehman\source\PaymentApp\ChecoutBasic\ChecoutBasic\ChecoutBasic.csproj;x64

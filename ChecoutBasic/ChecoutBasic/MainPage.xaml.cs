@@ -235,12 +235,13 @@ namespace ChecoutBasic
                 ob.Add("salmon");
                 ob.Add("tuna");
                 gwparams.productDescriptors = ob;
+                parameters.gateWayParameters = gwparams;
 #endif
 
 #if (CREDITCALL)
                 //Nothing required from cc prespective
+
 #endif
-                parameters.gateWayParameters = gwparams;
 
                 mgr.Pay(parameters);
                 
@@ -322,6 +323,7 @@ namespace ChecoutBasic
 
             gwrefundSAParameters.tax = Settings.tax;
             gwrefundSAParameters.tip = Settings.tip;
+            refundSAParameters.gatewayRefundParams = gwrefundSAParameters;
 #endif
 
 
@@ -329,7 +331,6 @@ namespace ChecoutBasic
             // nothing required from CC prespective
 #endif
 
-            refundSAParameters.gatewayRefundParams = gwrefundSAParameters;
             mgr.refundStandAlone(refundSAParameters);
 
             // should not repeat in the next transaciton. 
@@ -368,13 +369,13 @@ namespace ChecoutBasic
             ob.Add("salmon");
             ob.Add("tuna");
             parameters.productDescriptors = ob;
+            authParameters.gateWayParameters = parameters;
 #endif
 
 #if (CREDITCALL)
             // No special parameter required for CreditCall in this case             
 #endif
 
-            authParameters.gateWayParameters = parameters;
 
             mgr.Auth(authParameters);
         }
@@ -552,20 +553,14 @@ namespace ChecoutBasic
             Shift4IncrementalAuthParams shift4IncrementalAuthParams = new Shift4IncrementalAuthParams();
             shift4IncrementalAuthParams.invoice = lastTransactionID;
             shift4IncrementalAuthParams.cardToken = lastTokenValueID;
-
-
-
-
-
+            incrementalAuthParameters.gatewayIncrementalAuthParams = shift4IncrementalAuthParams;
+            
 
 #endif
 
 #if (CREDITCALL)
-            CCConfirmParams gwconfirmParams = new CCConfirmParams();
-            gwconfirmParams.CardEaseRefernce = lastTransactionID;
             
 #endif
-            incrementalAuthParameters.gatewayIncrementalAuthParams = shift4IncrementalAuthParams;
 
             mgr.incrementalAuth(incrementalAuthParameters);
         }
