@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\Abdul Rehman\source\PaymentApp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-05-21T09:28:20.881</Modified>
+      <Modified>2019-05-28T07:07:12.996</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Abdul Rehman\source\PaymentApp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\ChecoutBasic.exe">
       <PackagePath>entrypoint\ChecoutBasic.exe</PackagePath>
-      <Modified>2019-05-21T09:28:18.914</Modified>
+      <Modified>2019-05-28T07:07:10.019</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Abdul Rehman\.nuget\packages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -606,7 +606,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Abdul Rehman\source\PaymentApp\ChecoutBasic\ChecoutBasic\bin\x64\Debug\Core\ChecoutBasic.exe">
       <PackagePath>ChecoutBasic.exe</PackagePath>
-      <Modified>2019-05-21T09:28:20.871</Modified>
+      <Modified>2019-05-28T07:07:12.940</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

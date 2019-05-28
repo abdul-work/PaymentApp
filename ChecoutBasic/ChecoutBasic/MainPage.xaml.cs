@@ -256,7 +256,12 @@ namespace ChecoutBasic
             await this.Dispatcher.RunAsync(CoreDispatcherPriority.Normal, () =>
             {
                 txtResponse.Text = PaymentResponseCodes.to_String(res.Status) + "\n" + res.lastfourdigit + "\n" + res.cardholdername;
+#if (SHIFT4)
                 lastTransactionID = res.invoice;
+#endif
+#if (CREDITCALL)
+                lastTransactionID = res.transactionId;
+#endif
                 lastTokenValueID = res.cardToken;
                 approvedAmount = res.approvedAmount;
                 cardEntryMode = res.cardEntryMode;
